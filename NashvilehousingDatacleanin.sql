@@ -47,9 +47,6 @@ WHERE a.PropertyAddress is null;
 
 
 
-
---------------------------------------------------------------------------------------------------------------------------
-
 -- Breaking out Address into Individual Columns (Address, City, State)
 
 
@@ -122,9 +119,6 @@ SELECT *
 FROM DataCleaning `nashville housing data`;
 
 
-
-
---------------------------------------------------------------------------------------------------------------------------
 
 
 -- Change Y and N to Yes and No in "Sold as Vacant" field
