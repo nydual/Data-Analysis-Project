@@ -18,7 +18,6 @@ link: https://public.tableau.com/app/profile/nyadual.makuach
 # Data Source
 https://ourworldindata.org/covid-cases
 
-
 # Build with 
 tableau public
 MySQLWorkbench
