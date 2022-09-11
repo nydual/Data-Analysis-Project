@@ -9,17 +9,17 @@ countries with the highest death rate per population,total_death rate per contin
 The second project illustrates the data cleaning process in SQL. I used the Nashville housing data to  Standardize the Date Format, Populate Property Address data, Break out Addresses into Individual Columns (Address, City, State) and Change Y and N to Yes and No in the "Sold as Vacant" field.
 The third project demonstrates data virtualization using tableau. I created dashboards using queries results from coviddeaths and covidvaccination
 
-#Tableau Dashboards
+# Tableau Dashboards
 
 <img width="1505" alt="Screen Shot 2022-09-11 at 3 54 29 AM" src="https://user-images.githubusercontent.com/61757619/189517646-fbd0b5c2-87ae-4f0d-ab16-66ca64297f4a.png">
 link: https://public.tableau.com/app/profile/nyadual.makuach
 
 
-#Dataset Sources
+# Data Source
 https://ourworldindata.org/covid-cases
 
 
-#Build with
+# Build with 
 tableau public
 MySQLWorkbench
 
